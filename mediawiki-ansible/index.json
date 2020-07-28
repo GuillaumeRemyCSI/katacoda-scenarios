@@ -73,6 +73,6 @@
     "uilayout": "editor-terminal"
   },
   "backend": {
-    "imageid": "python"
+    "imageid": "python:3.6"
   }
 }
