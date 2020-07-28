@@ -73,6 +73,6 @@
     "uilayout": "editor-terminal"
   },
   "backend": {
-    "imageid": "centos-cluster2"
+    "imageid": "python"
   }
 }
