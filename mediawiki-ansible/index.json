@@ -73,7 +73,7 @@
     "uilayout": "editor-terminal"
   },
   "backend": {
-    "imageid": "guillaumeremy-ansible-cluster"
+    "imageid": "kubernetes-cluster:1.18"
   },
   "icon": "https://cdn.iconscout.com/icon/free/png-512/ansible-282283.png"
 }
