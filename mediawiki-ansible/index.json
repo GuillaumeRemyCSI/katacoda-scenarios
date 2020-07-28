@@ -73,6 +73,7 @@
     "uilayout": "editor-terminal"
   },
   "backend": {
-    "imageid": "python:3.6"
-  }
+    "imageid": "guillaumeremy-ansible-cluster"
+  },
+  "icon": "https://cdn.iconscout.com/icon/free/png-512/ansible-282283.png"
 }
